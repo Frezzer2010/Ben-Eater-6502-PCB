@@ -4,7 +4,7 @@ My custom PCB designed to run Ben Eater's 6502 breadboard CPU with original memo
 Why i made it:  
 This PCB was primarily made because i didnt want to wire up my breadboard by hand, again. I wanted it to be portable with no loose wires, and easier to handle. I also wanted to stop having to go back and re-watch all the videos to figure out what was wrong when something did end up not working. So in the end i made 3 versions of this pcb soon to be more, each taking around a week or less.
 
-<img width="1816" height="2690" alt="PCB_V3" src="https://github.com/user-attachments/assets/5dc4b9c1-b064-4705-8998-aef8736ee5e2" />
+<img width="2690" height="1816" alt="PCB_V3" src="https://github.com/user-attachments/assets/95eacfac-a85e-4015-809b-3fd6e15fa2bf" />
 
 What does it feature:  
 
