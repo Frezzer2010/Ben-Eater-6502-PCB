@@ -11,7 +11,7 @@ The PCB has 8 SDIP Sockets for the 8 core components, these components are enoug
 (w65c02 CPU, at28c256 ROM, cy62256 RAM, w65c22 VIA, 74hc00 or 74ls00 NAND, w65c51 ACIA, 1Mhz oscillator, 1.8432Mhz oscillator)
 It has breakout ports for the CPU such as bus control, interupts, cpu halting, etc.
 It also has nessesary ports like the DATA and ADDRESS bus, for adding new components such as extra 6522 VIAs, or VRAM.
-and the most resent addition is the ACIA pins to add RS232 interface.
+and the most recent addition is the ACIA pins to add RS232 interface, which i ended up using a built in max3232 USB to rs232 cord, because the max232 I got in Ben Eaters kit kepted overheating when I powered up the board in the wrong order.
 and of course it has the 6522 A and B ports.
 
 What will i add in the future:  
