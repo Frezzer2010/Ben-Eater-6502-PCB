@@ -1,8 +1,6 @@
 # Ben-Eater-6502-PCB
 My custom PCB designed to run Ben Eater's 6502 breadboard CPU with original memory map and wiring.
 
-Attention!: i made an error when making the schematic/board. The 1.8432Mhz Baud Oscillator, should go to the XTLI pin on the 6851, and not the RxC pin.
-
 Why i made it:  
 This PCB was primarily made because i didnt want to wire up my breadboard by hand, again. I wanted it to be portable with no loose wires, and easier to handle. I also wanted to stop having to go back and re-watch all the videos to figure out what was wrong when something did end up not working. So in the end i made 3 versions of this pcb soon to be more, each taking around a week or less.
 
