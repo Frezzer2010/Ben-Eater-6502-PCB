@@ -16495,7 +16495,7 @@
 		)
 		(uuid "404a9328-68bb-446c-99a2-711f17f72a31")
 	)
-	(label "RxC"
+	(label "XTLI"
 		(at 170.18 113.03 180)
 		(effects
 			(font
