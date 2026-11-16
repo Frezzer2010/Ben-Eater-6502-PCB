@@ -1,6 +1,9 @@
 VGA CRT Ben-Eater-6502-PCB
 My custom PCB designed to run Ben Eater's 6502 breadboard CPU with original memory map and wiring, this time with a 31x24 VGA display, and ps2 keyboard input.
 
+!!! Disclaimer before I upload the V4 pcb and schem i made a grave mistake and reversed the CHR ROM address bits and the color bits so i had to manually scratch out the traces for that and re solder that, and i had to completly mangle the character rom data to show the tiles correctly, and becasue i used a 4 layered board i couldnt scratch out the traces for the CHR ROM... 
+so yea, always double check your double check. or you'll regret it.
+
 Why i made it:  
 This PCB was primarily made because i didnt want to wire up my breadboard by hand... again. I wanted it to be portable with no loose wires, and easier to handle. I also wanted to stop having to go back and re-watch all the videos to figure out what was wrong when something did end up not working. So in the end i made 3 versions of this pcb soon to be more, each taking around a week or less.
 
