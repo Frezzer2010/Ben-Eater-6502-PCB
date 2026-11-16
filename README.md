@@ -1,4 +1,4 @@
-<img width="2369" height="1067" alt="20261116_112937" src="https://github.com/user-attachments/assets/e9d99cda-c790-4ed4-8db6-9addae3ae255" /># VGA CRT Ben-Eater-6502-PCB
+VGA CRT Ben-Eater-6502-PCB
 My custom PCB designed to run Ben Eater's 6502 breadboard CPU with original memory map and wiring, this time with a 31x24 VGA display, and ps2 keyboard input.
 
 Why i made it:  
